@@ -14,3 +14,61 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Cadastro de Usuários - Fullstack
+
+Aplicação fullstack desenvolvida para prática de backend e frontend, com criação de API, integração com React e consumo de dados.
+
+## 🚀 Tecnologias utilizadas
+
+### Backend
+- Node.js
+- Express
+- MongoDB
+- Prisma
+- CORS
+
+### Frontend
+- React
+- Vite
+- Axios
+- Hooks (useState, useRef)
+
+## 📌 Funcionalidades
+
+- Criar usuário
+- Listar usuários
+- Editar usuário
+- Deletar usuário
+- Integração entre frontend e backend
+- Consumo de API
+- Tratamento de CORS
+
+## 🔗 Estrutura do projeto
+
+```
+cadastro-usuarios-fullstack
+ ├── Backend
+ └── Frontend
+```
+
+## ▶️ Como rodar o projeto
+
+### Backend
+```
+cd Backend
+npm install
+npm run dev
+```
+
+### Frontend
+```
+cd Frontend
+npm install
+npm run dev
+```
+
+---
+
+Projeto desenvolvido como prática de desenvolvimento fullstack.
+
